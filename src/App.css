@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.contenaire{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+ /* background-color: #f2f3f4;*/
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.titre{
+  text-align: center;
+  color: #0682ff;
+}
